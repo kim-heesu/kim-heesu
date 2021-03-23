@@ -21,7 +21,7 @@ $(document).ready(function(){
         dots: false,
         arrows: true,
         infinite: true,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 6000
     });
 });
