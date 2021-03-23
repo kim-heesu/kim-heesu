@@ -192,6 +192,10 @@ div[class*="scroll-text-"] {
 }
 .scroll-text-bottom span {
     position: absolute;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-left: 35px;
     margin: -40px 0 0 -18px;
     font-weight: 600;
 }
@@ -544,6 +548,7 @@ section h2 {
 }
 .section7 .slick-next {
     margin-left: 35px;
+    overflow: visible;
     background: url("../img/next_button.svg") no-repeat center;
 }
 .section7 .slick-next:after {
