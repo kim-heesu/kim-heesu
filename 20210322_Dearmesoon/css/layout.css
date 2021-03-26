@@ -540,7 +540,7 @@ section h2 {
     display: inline-block;
     text-align: left;
     font-size: 22px;
-    font-weight: 100;
+    font-weight: 400;
 }
 .section5 {
     height: 100vh;
@@ -1094,6 +1094,7 @@ section h2 {
     .section4 .text-area p {
         margin-top: 36px;
         font-size: 16px;
+        line-height: 24px;
     }
     .dear-info {
         display: flex;
