@@ -2456,6 +2456,9 @@ div[class*="sub02_"] .visual-sub {
     .sub-page .graph-content {
         padding: 40px 0 0;
     }
+    .sub-page .graph-content img {
+        margin: 0 auto;
+    }
     .sub-page .section-guide {
         font-family: 'Noto Sans Korean', sans-serif;
         font-size: 12px;
@@ -2730,6 +2733,9 @@ div[class*="sub02_"] .visual-sub {
         font-size: 18px;
         line-height: 26px;
         letter-spacing: -0.9px;
+    }
+    .sub-page .precautions .case-box img {
+        margin: 0 auto;
     }
     .sub-page .precautions .case-box p {
         margin: 14px 0 20px;
