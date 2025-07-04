@@ -29,7 +29,7 @@ Thanks for visiting my GitHub! Take a look at what I’m working on👀   <br />
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm">
    <img
      src="https://render.gitanimals.org/farms/kim-heesu"
-     width="500"
+     width="400"
      height="300"
    />
 </a>
