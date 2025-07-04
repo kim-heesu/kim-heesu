@@ -6,7 +6,7 @@ https://github.com/ssnc-heesu
 <hr>
 
 <div align="center">
-   🔥TECH STACK🔥<br>
+   <strong>🔥TECH STACK🔥</strong><br>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 <hr>
