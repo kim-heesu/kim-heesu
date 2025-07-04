@@ -1,12 +1,13 @@
-안늉🐣
-https://studysu.tistory.com/
-
-업무계정
-https://github.com/ssnc-heesu
-<hr>
-
 <div align="center">
-   <strong>🔥TECH STACK🔥</strong><br>
+👋Hi there!👋<br>
+I write code, break stuff, and fix it better.🧑‍💻<br>
+Thanks for visiting my GitHub! Feel free to explore my projects and see what I'm working on 👀<br>
+**Stick around and see how far I can go. 🚀**
+</div>
+<hr>
+<div align="center">
+   <strong>🔥TECH STACK🔥</strong>
+   <br>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
@@ -22,7 +23,6 @@ https://github.com/ssnc-heesu
    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    <br>
    🛠️ Tech stack being updated
-   
 </div>
 <hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&hide=csharp)
