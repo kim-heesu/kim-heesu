@@ -25,7 +25,7 @@ Thanks for visiting my GitHub! Take a look at what I’m working on👀<br>
    🛠️ Tech stack being updated
 </div>
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=dracula)
+
 
 
 
