@@ -26,6 +26,8 @@ Thanks for visiting my GitHub! Take a look at what I’m working on👀   <br />
    🛠️ Tech stack being updated
 </div>
 <hr />
+<div align="center">
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm">
    <img
      src="https://render.gitanimals.org/farms/kim-heesu"
@@ -35,6 +37,8 @@ Thanks for visiting my GitHub! Take a look at what I’m working on👀   <br />
 </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=radical)
+
+</div>
 
 <hr />
 
