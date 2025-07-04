@@ -4,8 +4,9 @@ https://studysu.tistory.com/
 업무계정
 https://github.com/ssnc-heesu
 <hr>
-<h1>🔥TECH STACK🔥</h1>
+
 <div align="center">
+   🔥TECH STACK🔥<br>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 <hr>
