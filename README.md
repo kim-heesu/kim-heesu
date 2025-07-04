@@ -1,7 +1,7 @@
 <div align="center">
 👋Hi there!👋<br>
-I write code, break stuff, and fix it better.🧑‍💻<br>
-Thanks for visiting my GitHub! Feel free to explore my projects and see what I'm working on 👀<br>
+I write code, break stuff, and fix it better🧑‍💻<br>
+Thanks for visiting my GitHub! Take a look at what I’m working on👀<br>
 **Stick around and see how far I can go. 🚀**
 </div>
 <hr>
@@ -25,6 +25,7 @@ Thanks for visiting my GitHub! Feel free to explore my projects and see what I'm
    🛠️ Tech stack being updated
 </div>
 <hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=dracula)
 
 
 
