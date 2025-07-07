@@ -30,7 +30,7 @@ Stick around and see how far I can go. 🚀
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=radical)
    
-   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm">
+   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm" target="_blank">
       <img
         src="https://render.gitanimals.org/farms/kim-heesu"
         width="400"
