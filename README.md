@@ -27,16 +27,30 @@ Stick around and see how far I can go. 🚀
 </div>
 <hr />
 <div align="center">
+  <h3>💻 Computer Science Fundamentals</h3>
+  <a href="https://www.notion.so/Computer-Science-20dc68705c808003b54df176799a3f89" 
+     style="display:inline-block; padding:10px 20px; margin:5px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">
+    Notion 정리 바로가기
+  </a>
+
+  <h3>📚 개발 공부 기록 블로그</h3>
+  <a href="https://studysu.tistory.com/" 
+     style="display:inline-block; padding:10px 20px; margin:5px; background-color:#2196F3; color:white; text-decoration:none; border-radius:5px;">
+    Tistory 블로그
+  </a>
+</div>
+<hr />
+<div align="center">
 
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=radical)
    
-   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm" target="_blank">
+   <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm" target="_blank">
       <img
         src="https://render.gitanimals.org/farms/kim-heesu"
         width="400"
         height="300"
       />
-   </a>
+   </a> -->
 
 </div>
 
