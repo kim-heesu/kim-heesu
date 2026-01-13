@@ -42,7 +42,7 @@ Stick around and see how far I can go. 🚀
 <hr />
 <div align="center">
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=radical)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-heesu)](https://github.com/anuraghazra/github-readme-stats)
    
    <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm" target="_blank">
       <img
