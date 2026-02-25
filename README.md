@@ -41,7 +41,7 @@ Stick around and see how far I can go. 🚀
 </div>
 <hr />
 <div align="center">
-![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-heesu&show_icons=true&hide=lucius,KHS_project&theme=radical)
+<!-- ![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-heesu&show_icons=true&hide=lucius,KHS_project&theme=radical) -->
 </div>
 
 <hr />
