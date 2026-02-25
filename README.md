@@ -41,17 +41,7 @@ Stick around and see how far I can go. 🚀
 </div>
 <hr />
 <div align="center">
-
-   
-   
-   <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kim-heesu&utm_content=farm" target="_blank">
-      <img
-        src="https://render.gitanimals.org/farms/kim-heesu"
-        width="400"
-        height="300"
-      />
-   </a> -->
-
+![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-heesu&show_icons=true&theme=radical)
 </div>
 
 <hr />
