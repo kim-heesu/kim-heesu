@@ -42,7 +42,7 @@ Stick around and see how far I can go. 🚀
 <hr />
 <div align="center">
  <!-- ![Heesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-heesu&show_icons=true&hide=lucius,KHS_project&theme=radical)  -->
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=chartreuse-dark)
+   <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-heesu&layout=compact&theme=chartreuse-dark) -->
 </div>
 
 <hr />
